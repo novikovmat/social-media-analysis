@@ -1,0 +1,3 @@
+# служебные файлы Jupyter и Python
+.ipynb_checkpoints/
+__pycache__/
